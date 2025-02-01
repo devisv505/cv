@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Avatar } from "@/components/ui/avatar";
 import { Button } from "@/components/ui/button";
-import { Mail, Linkedin, Github, Phone, Printer } from "lucide-react";
+import { Mail, Linkedin, Github, Printer } from "lucide-react";
 import { AvatarImage } from "@radix-ui/react-avatar";
 
 const CV = () => {
